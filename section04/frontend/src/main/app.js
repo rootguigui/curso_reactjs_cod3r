@@ -9,7 +9,7 @@ import Routes from './routes'
 
 export default function (props) {
   return (
-    <div className="container">
+    <div className="containe-fluid">
       <Router>
         <HashRouter>
           <Menu />
