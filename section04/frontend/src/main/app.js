@@ -1,5 +1,6 @@
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../../node_modules/font-awesome/css/font-awesome.min.css'
+import '../todo/todo.css'
 
 import React from 'react'
 import { BrowserRouter as Router, Switch, HashRouter } from 'react-router-dom' 
